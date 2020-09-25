@@ -5960,11 +5960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deon\\Desktop\\Azure-Cognitive-Search-Demo\\version8\\Azure Cognitive Search Demo\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj",
+      "projectUniqueName": "C:\\Users\\Deon\\Desktop\\Azure-Cognitive-Search-Demo\\0 Azure Cognitive Search Demo\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj",
       "projectName": "CognitiveSearch.UI",
-      "projectPath": "C:\\Users\\Deon\\Desktop\\Azure-Cognitive-Search-Demo\\version8\\Azure Cognitive Search Demo\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj",
+      "projectPath": "C:\\Users\\Deon\\Desktop\\Azure-Cognitive-Search-Demo\\0 Azure Cognitive Search Demo\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj",
       "packagesPath": "C:\\Users\\Deon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deon\\Desktop\\Azure-Cognitive-Search-Demo\\version8\\Azure Cognitive Search Demo\\CognitiveSearch.UI\\obj\\",
+      "outputPath": "C:\\Users\\Deon\\Desktop\\Azure-Cognitive-Search-Demo\\0 Azure Cognitive Search Demo\\CognitiveSearch.UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Deon\\AppData\\Roaming\\NuGet\\NuGet.Config",
