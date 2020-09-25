@@ -1,0 +1,3 @@
+**GitHub:** https://github.com/Azure-Samples/azure-search-dotnet-samples/tree/master/multiple-data-sources
+
+**Description:** Demonstrates Azure Cognitive Search indexing from Azure Cosmos DB and Azure Blob storage, populating an index by combining data from different data sources. This .NET Core console application is featured in C# Tutorial: Combine data from multiple data sources in one search index. When you run the program, a console window emits output messages for each step. This sample runs on an Azure Cognitive Search service, importing content from Azure Cosmos DB and Azure Blob storage, using services and connection information that you provide.
