@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fMO83jsTWeu8LbNB/FczSHigB97S+ve5BdljkTzy9lfoEiXYRTvILDNsZxgsNN+aj3OBseywfFlsIhdZMyBoRA==",
+  "dgSpecHash": "6TaLj6qoifWf3h5BTfOWunnkyusqOBKwy/ZunYjSnNMPZVx+GtGz4BmsJ8EdwrT7BQl4guh7hdH1xsW/GbsDcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Deon\\Desktop\\Azure-Cognitive-Search-Demo\\0 Azure Cognitive Search Demo\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj",
+  "projectFilePath": "C:\\Users\\Deon\\Desktop\\新建文件夹\\AzureSearch\\Azure Cognitive Search Demo\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deon\\.nuget\\packages\\microsoft.applicationinsights\\2.13.1\\microsoft.applicationinsights.2.13.1.nupkg.sha512",
     "C:\\Users\\Deon\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
